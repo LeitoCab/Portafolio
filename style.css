@@ -814,7 +814,7 @@ font-weight: 600;
 #contact .contact-row .contact-right form textarea{
   display: block;
   width: 100%;
-  margin: 30px 0;
+  margin: 25px 0;
   font-size: 15px;
   font-weight: 500;
   color: var(--textColor);
@@ -827,7 +827,7 @@ font-weight: 600;
 }
 #contact .contact-row .contact-right form input:focus,
 #contact .contact-row .contact-right form textarea:focus{
-  border: var(--themeColor);
+  border: 2px solid var(--themeColor);
 }
 #contact .contact-row .contact-right form input[type=submit]{
   background-color: var(--themeColor);
